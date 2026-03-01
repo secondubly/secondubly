@@ -1,4 +1,4 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=FFDF00&repeat=false&width=435&lines=hey+there!" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=FFDF00&repeat=true&width=435&lines=hey+there!" alt="Typing SVG" />
 
 <div align="center">
 <pre>
