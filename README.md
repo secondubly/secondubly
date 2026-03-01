@@ -1,6 +1,7 @@
-## hey there!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=FFDF00&repeat=false&width=435&lines=hey+there!" alt="Typing SVG" /></a>
+
 <div align="center">
-<pre style="">
+<pre>
     🚀 Full-Stack Engineer (Looking for Work!)
     💻 Java • HTML/CSS • Javascript/Typescript • Ruby
     📖 Software architecture • Distributed systems
