@@ -1,16 +1,13 @@
-`under construction`
+## hey there!
+<div align="center">
+<pre style="">
+    🚀 Full-Stack Engineer (Looking for Work!)
+    💻 Java • HTML/CSS • Javascript/Typescript • Ruby
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code
+    📝 <a href="https://tmass.ac/blog" style="text-decoration: underline; color: #ccc">sometimes I write things</a>
+    📄 <a href="https://tmass.ac/resume" style="text-decoration: underline; color: #ccc">My Experience</a>
+    📬 <a href="mailto:hello@tmass.ac" style="color: #ccc; text-decoration: underline">How to Reach Me</a>
+</pre>
 
-<!--
-**secondubly/secondubly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
